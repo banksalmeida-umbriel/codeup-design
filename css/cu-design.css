@@ -5,6 +5,9 @@
 .myrounded-circle {
     width: 105px;
     height: 105px;
+    border: solid;
+    border-width: 5px;
+    color: white;
 }
 
 .circle-red {
