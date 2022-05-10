@@ -1,0 +1,22 @@
+.pg-background {
+    background-color: #f0f0f0;
+}
+
+.myrounded-circle {
+    width: 105px;
+    height: 105px;
+}
+
+.circle-red {
+  background-color: #e6563b;
+}
+.circle-yel {
+    background-color: #eb9d3a;
+}
+.circle-grn {
+    background-color: #7cb06c;
+}
+.circle-blu {
+    background-color: #00aba9;
+}
+
