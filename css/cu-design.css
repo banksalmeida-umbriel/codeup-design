@@ -4,6 +4,10 @@
 .gray-border {
     border: 5px solid #e6e6e6;
 }
+.logo {
+    height: 55px;
+    width: 55px;
+}
 
 .mybigrounded-circle {
     width: 105px;
