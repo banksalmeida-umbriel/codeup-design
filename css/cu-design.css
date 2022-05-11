@@ -14,24 +14,25 @@
     margin: 1em;
 
 }
-.mysmrounded-circle {
-    width: 18px;
-    height: 18px;
-    font-family: 'Anton', sans-serif;
-    font-weight: bolder;
-    font-size: small;
-}
 
 .circle-red {
   background-color: #e6563b;
+   font-family: 'Anton', sans-serif;
+   font-weight: bolder;
 }
 .circle-yel {
     background-color: #eb9d3a;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
 }
 .circle-grn {
     background-color: #7cb06c;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
 }
 .circle-blu {
     background-color: #00aba9;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
 }
 
